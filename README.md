@@ -13,6 +13,8 @@ By default, the version of the docker image is **latest**.
 
 ### How to getting started
 
+When running as **<u>dev</u>**, you can try running the react app using **npm**, and when using **<u>prod</u>**, it is build and deployed through **nginx**.
+
 #### build docker image
 
 - docker build -t **\[your_image_name\]**:**\[your_tag(it can be skipped)\]** --target **\[dev || prod\]** .
