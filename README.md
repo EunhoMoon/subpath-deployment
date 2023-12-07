@@ -1,6 +1,6 @@
 ## Deploy SPA to subpath
 
-This is a simple example of deploying a SPA(React app) with a startup path of subpath (ex. **/app**).
+This is a simple example of deploying a SPA(React app) with a startup path is subpath (ex. **/app**).
 
 I've created a simple **boilerplate**, and you can use it as a reference to develop it in various directions.
 
