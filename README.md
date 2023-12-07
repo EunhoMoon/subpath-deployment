@@ -4,10 +4,8 @@ This is a simple example of deploying a SPA(React app) with a startup path of su
 
 I've created a simple **boilerplate**, and you can use it as a reference to develop it in various directions.
 
-#### version doesn't seem to matter much(when using docker).
-
-- react
-- nginx
+- node: ^20.8.0(If you want to run it without docker)
+- nginx: version doesn't seem to matter much
 
 ## How to getting started
 
