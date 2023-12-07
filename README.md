@@ -8,8 +8,8 @@ I've created a simple **boilerplate**, and you can use it as a reference to deve
 
 By default, the version of the docker image is **latest**.
 
-- node: ^20.8.0(If you want to run it without docker)
-- nginx: version doesn't seem to matter much
+- **node**: ^20.8.0(If you want to run it without docker)
+- **nginx**: version doesn't seem to matter much
 
 ### How to getting started
 
